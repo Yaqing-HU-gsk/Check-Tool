@@ -1,0 +1,7 @@
+Python 3.9+
+streamlit
+pandas
+numpy
+python-docx
+rapidfuzz
+openpyxl
